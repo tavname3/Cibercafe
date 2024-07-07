@@ -1,0 +1,23 @@
+.apartado{
+border-radius: 10px;
+border:solid black;
+padding: auto;
+font-size: 80px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin-top: 10%;
+margin-left: 5%;
+display: grid;
+grid-template-columns: 20% 80%;
+}
+.info {
+border-radius: 10px;
+border:solid black;
+padding: auto;
+}
+.img{
+border-radius: 10px;
+border:solid black;
+padding: auto;
+height: 250px;
+width: 250px;
+}
